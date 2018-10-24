@@ -1,0 +1,17 @@
+body {
+background: url('http://i.amz.mshcdn.com/GCs2kvk3F33BzFNDKjKArZzcvRI=/fit-in/1200x9600/http%3A%2F%2Fmashable.com%2Fwp-content%2Fuploads%2F2013%2F02%2FNicolas-Cage.jpg') !important;
+}
+#masthead,
+    #primary {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    background-color: #fff;
+    padding: 20px !important;
+    }
+    #masthead {
+    background: none;
+    }
+    #masthead img, #primary img {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    }
